@@ -28,7 +28,9 @@ I modified some parts for an older version of my humanoid robot design. I have s
 
 I've done minimal testing with these parts, so YMMV.
 
-STL files have been provided. Good luck.
+STL files have been provided. I may revisit this actuator in the future, however, it will remain unsupported/legacy for the time being.
+
+Good luck.
 
 # License
 
